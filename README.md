@@ -42,6 +42,6 @@ I believe AI should augment developer creativity, not replace it. My focus is on
 
 ## Connect
 
-🌐 [joshmabry.dev](http://www.joshmabry.dev)  
-💼 [LinkedIn](https://linkedin.com/in/joshmabry)  
-✉️ mabry1985@gmail.com
+[joshmabry.dev](http://www.joshmabry.dev)  
+[LinkedIn](https://linkedin.com/in/joshmabry)  
+mabry1985@gmail.com
