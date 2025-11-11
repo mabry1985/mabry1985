@@ -38,7 +38,7 @@ Stack: React Query, TypeScript, Storybook
 
 ## Approach
 
-I believe AI should augment developer creativity, not replace it. My focus is on building tools that enhance productivity while keeping safety, transparency, and maintainability at the core. _Learn by shipping, measure what matters, iterate._
+I believe AI should augment developer creativity, not replace it. My focus is on building tools that enhance productivity while keeping safety, transparency, and maintainability at the core. **_Learn by shipping, measure what matters, iterate._**
 
 ## Connect
 
