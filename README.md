@@ -1,47 +1,21 @@
 # Josh Mabry
 
-I enjoy exploring the intersection of AI and UX — combining fullstack engineering, design thinking, and AI research to build products that make complex technology accessible and empowering.
+Software Architect · Founder, protoLabs
 
-## Recent Work
+I architect autonomous AI systems that ship production software. No code — just systems thinking, product vision, and 8 years of knowing how software should flow from design to production.
 
-**Rabbit Hole** — Real-time collaborative knowledge graph platform  
-Built sync infrastructure (Yjs CRDT, <100ms latency), integrated LangGraph agents for automated research, and designed tier system handling Free through Enterprise users.
+## What I'm Building
 
-Stack: React, Next.js, TypeScript, Node, Neo4j, PostgreSQL
+**[protoMaker](link)** — Autonomous AI development studio. Orchestrates AI agent teams to deliver merged, tested, and documented features from a PRD. Open source.
 
-**Deep Agent Researcher** — Multi-agent knowledge extraction system  
-Supervisor coordinates 6 specialized agents using LangGraph for autonomous research workflows. Produces validated knowledge graph bundles with evidence citations and confidence scores.
+**[rabbit-hole.io](link)** — AI research platform. Multi-agent system coordinating specialized research agents over a collaborative knowledge graph.
 
-Stack: LangGraph, TypeScript, Python
+**[mythΞengine](link)** — AI-powered RPG generator. LLM-driven world-building, narrative systems, and dynamic content generation.
 
-**AI Playground System** — Interactive capability testing framework  
-Reusable component pattern for validating AI features before full implementation. Built 12 playgrounds for LLM providers, transcription, and agent workflows. Enables non-technical stakeholders to test directly.
+**[proto-ux.ai](link)** — AI-native website builder and CMS. Integrates with the protoMaker agent ecosystem.
 
-Stack: React Query, TypeScript, Storybook
-
-### Other Projects
-- [**acai.so**](https://github.com/artificialcitizens/acai.so) — AI-powered markdown editor with agentic workflows and local model support  
-- [**AC-Scripts**](https://github.com/artificialcitizens/ac-scripts) — Open-source AI scripts for developer productivity (ScriptKit ecosystem)  
-- [**Chat Your Knowledgebase**](https://www.knapsack.cloud/blog/how-to-chat-with-your-knowledge-base) — Primer on building RAG pipelines with LLMs & embeddings  
-
-## Technical Background
-
-**Frontend:** React, Next.js 15, component libraries, design systems, accessibility, performance optimization
-
-**Backend:** Node.js, Python, API design, WebSockets, Docker, monorepo architecture
-
-**Data:** PostgreSQL, Neo4j, Redis, vector databases, S3
-
-**AI/ML:** LangChain, LangGraph, prompt engineering, RAG pipelines, tool orchestration (OpenAI, Anthropic, Groq)
-
-**Infrastructure:** Real-time collaboration (Yjs CRDT), CI/CD, testing (Vitest, Cypress), observability
-
-## Approach
-
-I believe AI should augment developer creativity, not replace it. My focus is on building tools that enhance productivity while keeping safety, transparency, and maintainability at the core. **_Learn by shipping, measure what matters, iterate._**
+Everything built with AI-native methodology. Zero hand-written code.
 
 ## Connect
 
-[joshmabry.dev](http://www.joshmabry.dev)  
-[LinkedIn](https://linkedin.com/in/joshmabry)  
-mabry1985@gmail.com
+[proto-labs.ai](link) · [joshmabry.dev](link) · [LinkedIn](link) · [Twitter/X](link)
