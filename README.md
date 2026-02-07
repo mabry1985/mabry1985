@@ -20,4 +20,4 @@ Everything built with AI-native methodology. Zero hand-written code.
 
 ## Connect
 
-[joshmabry.dev](https://joshmabry.dev) · [LinkedIn](https://linkedin.com/in/joshmabry) · mabry1985@gmail.com
+[joshmabry.dev](https://joshmabry.dev) · [LinkedIn](https://linkedin.com/in/mabry1985) · mabry1985@gmail.com
