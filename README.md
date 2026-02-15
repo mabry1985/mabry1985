@@ -14,11 +14,11 @@ That conviction became **protoLabs**.
 
 ### What I Built
 
-**[protoLabs](https://protolabs.studio)** — An AI-native development agency. Specialized AI agents take a product requirement and deliver merged, tested, documented code through autonomous pipelines. I architect the systems. They implement them. Source-available.
+**protoLabs** — An AI-native development agency. Specialized AI agents take a product requirement and deliver merged, tested, documented code through autonomous pipelines. I architect the systems. They implement them. Source-available.
 
-**[MythXEngine](https://github.com/proto-labs-ai/mythx-engine)** — AI-powered TTRPG engine. LLM-driven world generation, narrative systems, dynamic content. Built with protoLabs.
+**MythXEngine** — AI-powered TTRPG engine. LLM-driven world generation, narrative systems, dynamic content. Built with protoLabs.
 
-**[SVGVal](https://github.com/proto-labs-ai/svgval)** — SVG validation toolkit. Built with protoLabs.
+**SVGVal** — text to SVG evaluation toolkit. Built with protoLabs.
 
 Every product was architected by me and implemented by AI agents. That's not a gimmick — it's the methodology.
 
@@ -39,4 +39,4 @@ I architect. They build. We ship.
 
 ---
 
-[protoLabs.studio](https://protolabs.studio) · [Twitter/X](https://twitter.com/joshmabry_) · [LinkedIn](https://linkedin.com/in/joshmabry) · [Twitch](https://twitch.tv/joshmabry)
+[Twitter/X](https://twitter.com/protolabsai) · [LinkedIn](https://linkedin.com/in/joshmabry) · [Twitch](https://twitch.tv/protolabstv)
