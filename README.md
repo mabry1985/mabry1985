@@ -22,21 +22,5 @@ That conviction became **protoLabs**.
 
 Every product was architected by me and implemented by AI agents. That's not a gimmick — it's the methodology.
 
----
-
-### The Team
-
-| Name | Role |
-|------|------|
-| **Ava** | Chief of Staff |
-| **Sam** | AI Agent Engineer |
-| **Matt** | Frontend Engineer |
-| **Frank** | DevOps Engineer |
-| **Jon** | GTM Specialist |
-| **Cindi** | Content Writer |
-
-I architect. They build. We ship.
-
----
 
 [Twitter/X](https://twitter.com/protolabsai) · [LinkedIn](https://linkedin.com/in/joshmabry) · [Twitch](https://twitch.tv/protolabstv)
