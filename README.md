@@ -14,7 +14,7 @@ That conviction became **protoLabs**.
 
 ### What I Built
 
-**[protoLabs](https://www.protolabs.studio/)** — An AI-native development agency. Specialized AI agents take a product requirement and deliver merged, tested, documented code through autonomous pipelines. I architect the systems. They implement them. Source-available.
+**[protoLabs.studio](https://www.protolabs.studio/)** — An AI-native development agency. Specialized AI agents take a product requirement and deliver merged, tested, documented code through autonomous pipelines. I architect the systems. They implement them. Source-available.
 
 **[MythXEngine](https://www.mythxengine.com/)** — AI-powered TTRPG engine. LLM-driven world generation, narrative systems, dynamic content. Built with protoLabs.
 
