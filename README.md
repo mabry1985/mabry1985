@@ -8,7 +8,7 @@ I spent 8 years shipping production software across agencies, enterprise design 
 
 Three years ago I started building with AI as a methodology, not a novelty. I studied multi-agent systems, shipped RAG pipelines and LLM tools to real users, and arrived at a conviction: the future of software isn't writing more code. It's orchestrating intelligent systems that write it for you.
 
-That conviction became **protoLabs**.
+That conviction became **protoLabs.studio**.
 
 ---
 
