@@ -1,26 +1,32 @@
 ## Josh Mabry
 
-**Software Architect · Founder, [protoLabs.studio](https://protolabs.studio)**
+Software architect at [protoLabs.studio](https://protolabs.studio).
+I build the systems that build the software.
 
-Software doesn't need to be built the way we've been building it.
+Most of shipping software is wasted motion — the same handoffs, the same
+context lost between design and production. So the work isn't writing more
+code. It's building the systems that write, review, and ship it, with a human
+on the merge button.
 
-I spent 8 years shipping production software across agencies, enterprise design systems, and SaaS platforms — component architecture to cloud infrastructure. I learned how software should flow from design to production. I also learned how much of that process is wasted motion.
+### The work
 
-Three years ago I started building with AI as a methodology, not a novelty. I studied multi-agent systems, shipped RAG pipelines and LLM tools to real users, and arrived at a conviction: the future of software isn't writing more code. It's orchestrating intelligent systems that write it for you.
+- **[protoLabs.studio](https://protolabs.studio)** — an indie studio running
+  experiments in the open. Named agents take a requirement and return merged,
+  tested, documented code through autonomous pipelines. The patterns that fall
+  out ship open-core.
+- **[protoWorkstacean](https://github.com/protoLabsAI/protoWorkstacean)** — event
+  orchestrator and fleet switchboard; routes work across the portfolio.
+- **[protoMaker](https://github.com/protoLabsAI/protoMaker)** — the execution
+  engine. Board → features → worktrees → PRs, agent teams, CI on every push.
+- **[protoCLI](https://github.com/protoLabsAI/protoCLI)** — an AI agent that lives
+  in the terminal; ships `@protolabsai/sdk`.
+- **[protoAgent](https://github.com/protoLabsAI/protoAgent)** — distributed A2A
+  fleet-agent substrate on LangGraph.
+- **[protoBanana](https://github.com/protoLabsAI/protoBanana)** — chat-native
+  image generation + editing, open-source.
+- **[ORBIS](https://orbis.protolabs.studio)** — voice-first AI companion; an orb
+  that talks, remembers you, and routes the heavy lifting to your agents.
 
-That conviction became **protoLabs.studio**.
+I architect the systems; the agents implement them; review runs on every PR.
 
----
-
-### What I Built
-
-**[protoLabs.studio](https://www.protolabs.studio/)** — An AI-native development agency. Specialized AI agents take a product requirement and deliver merged, tested, documented code through autonomous pipelines. I architect the systems. They implement them. Source-available.
-
-**[MythXEngine](https://www.mythxengine.com/)** — AI-powered TTRPG engine. LLM-driven world generation, narrative systems, dynamic content. Built with protoLabs.
-
-**SVGVal** — text to SVG evaluation toolkit. Built with protoLabs.
-
-Every product was architected by me and implemented by AI agents. That's not a gimmick — it's the methodology.
-
-
-[Twitter/X](https://twitter.com/protolabsai) · [LinkedIn](https://linkedin.com/in/joshmabry) · [Twitch](https://twitch.tv/protolabstv)
+[the studio on X](https://twitter.com/protolabsai) · [LinkedIn](https://linkedin.com/in/joshmabry) · [Twitch](https://twitch.tv/protolabstv)
