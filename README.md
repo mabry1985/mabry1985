@@ -22,10 +22,16 @@ on the merge button.
   in the terminal; ships `@protolabsai/sdk`.
 - **[protoAgent](https://github.com/protoLabsAI/protoAgent)** — distributed A2A
   fleet-agent substrate on LangGraph.
+- **[protolab](https://github.com/protoLabsAI/protolab)** — the model lab.
+  FP8/vLLM on 2× RTX PRO 6000 Blackwell; quants on Hugging Face, findings shipped
+  as breakdowns.
 - **[protoBanana](https://github.com/protoLabsAI/protoBanana)** — chat-native
   image generation + editing, open-source.
 - **[ORBIS](https://orbis.protolabs.studio)** — voice-first AI companion; an orb
   that talks, remembers you, and routes the heavy lifting to your agents.
+- **[claude-code-infrastructure-showcase](https://github.com/mabry1985/claude-code-infrastructure-showcase)**
+  — production-tested Claude Code infrastructure: auto-activating skills, hooks,
+  and review agents, pulled from months of real use.
 
 I architect the systems; the agents implement them; review runs on every PR.
 
