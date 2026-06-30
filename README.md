@@ -29,9 +29,6 @@ on the merge button.
   image generation + editing, open-source.
 - **[ORBIS](https://orbis.protolabs.studio)** — voice-first AI companion; an orb
   that talks, remembers you, and routes the heavy lifting to your agents.
-- **[claude-code-infrastructure-showcase](https://github.com/mabry1985/claude-code-infrastructure-showcase)**
-  — production-tested Claude Code infrastructure: auto-activating skills, hooks,
-  and review agents, pulled from months of real use.
 
 I architect the systems; the agents implement them; review runs on every PR.
 
