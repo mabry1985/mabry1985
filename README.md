@@ -32,4 +32,4 @@ on the merge button.
 
 I architect the systems; the agents implement them; review runs on every PR.
 
-[the studio on X](https://twitter.com/protolabsai) · [LinkedIn](https://linkedin.com/in/joshmabry) · [Twitch](https://twitch.tv/protolabstv)
+[the studio on X](https://twitter.com/protolabsai) · [LinkedIn](https://linkedin.com/in/joshmabry) · [Twitch](https://twitch.tv/protolabstv) [Huggingface](https://huggingface.co/artificial-citizen)
