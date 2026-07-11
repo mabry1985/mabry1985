@@ -5,8 +5,7 @@ I build the systems that build the software.
 
 Most of shipping software is wasted motion — the same handoffs, the same
 context lost between design and production. So the work isn't writing more
-code. It's building the systems that write, review, and ship it, with a human
-on the merge button.
+code. It's building the systems that write, review, and ship it.
 
 ### The work
 
