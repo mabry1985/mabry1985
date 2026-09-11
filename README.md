@@ -23,6 +23,4 @@ Accessibility: WCAG 2.1 audits and remediation at Phase2 and Knapsack.
 Data visualization: the FEWS NET chart and map layer, built as accessible
 Web Components.
 
-[joshmabry.dev](https://joshmabry.dev)
-
-[LinkedIn](https://linkedin.com/in/mabry1985
+[joshmabry.dev](https://joshmabry.dev) [LinkedIn](https://linkedin.com/in/mabry1985)
