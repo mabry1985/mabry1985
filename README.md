@@ -1,26 +1,33 @@
 ## Josh Mabry
 
-Design systems and front-end. I build the layer where people and autonomous
-systems meet.
+AI and product engineer. Agent workflows. Developer tools. Interfaces. AI systems R&D at [protoLabs.studio](https://protolabs.studio).
 
-### Design systems
+### Agent systems
 
-- **[GlyphKit](https://glyphkit.design)** — 38 primitives, design tokens, motion
-  and theme foundations. Published Storybook.
-- **[protoLabs design system](https://storybook.protolabs.studio)** — the
-  component layer for agent products: tool cards, command palette, AI surfaces,
-  data and theming. TypeScript + React, published Storybook.
+- **[protoAgent](https://github.com/protoLabsAI/protoAgent)**: open-source
+  multi-agent framework on LangGraph. The model runs the tool loop, delegates to
+  subagents, other agents and coding agents, keeps memory across sessions, and
+  reaches models through a LiteLLM gateway. Extended by git-URL plugins. MIT.
+- **How it's built**: by directing AI coding agents behind test and review gates.
+  Agents do the volume; the gates check each change; every fixed bug gets a
+  regression test.
+- **The operator console**: the React surface the fleet is run from. Live agent
+  state, task progress, tool calls, output.
+- **[protoLab](https://github.com/protoLabsAI/protoLab)**: self-hosted inference and
+  evaluation lab (vLLM, LiteLLM, Langfuse) benchmarking local models against
+  frontier models on agent tasks.
+- **[ORBIS](https://orbis.protolabs.studio)**: voice-first companion (Rust, Tauri).
+  Speech and a small model on-device; heavier reasoning goes to the fleet over A2A.
 
-### The systems underneath
+### Interfaces
 
-- **[protoAgent](https://github.com/protoLabsAI/protoAgent)** — A2A-native agent
-  framework on LangGraph. Ships the React operator console the fleet is watched
-  through.
-- **[protoLab](https://github.com/protoLabsAI/protolab)** — self-hosted inference
-  and eval lab. CUDA-graph and quantization findings, published.
+- **[protoLabs design system](https://storybook.protolabs.studio)**: TypeScript
+  React with Storybook interaction tests, including components for agent UIs: tool
+  cards, command palette, AI surfaces.
+- **[GlyphKit](https://glyphkit.design)**: 38 primitives, design tokens,
+  motion and theme foundations, with a published Storybook.
+- **FEWS NET data visualization** (Phase2, 2022): accessible chart and map Web
+  Components for the famine early warning network, rendered to screen and to
+  printed reports. [Public visualization spec](https://help.fews.net/brand/visualizations).
 
-Accessibility: WCAG 2.1 audits and remediation at Phase2 and Knapsack.
-Data visualization: the FEWS NET chart and map layer, built as accessible
-Web Components.
-
-[joshmabry.dev](https://joshmabry.dev) [LinkedIn](https://linkedin.com/in/mabry1985)
+[joshmabry.dev](https://joshmabry.dev) · [LinkedIn](https://linkedin.com/in/mabry1985)
